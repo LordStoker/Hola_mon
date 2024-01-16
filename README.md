@@ -1,1 +1,1 @@
-# Hola_mon
+“Exercici 9, pràctica 4”.
